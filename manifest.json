@@ -6,9 +6,6 @@
     "icons": {
         "128": "128.png"
     },
-    "permissions": [
-        "activeTab"
-    ],
     "content_scripts": [
         {
             "matches": [
